@@ -1,0 +1,55 @@
+@media (min-width: 1920px) {
+    .container {
+        font-size: 16px;
+
+    }
+}
+@media (min-width: 992px) {
+    .container {
+        font-size: 16px;
+    }
+}
+@media (min-width: 768px) {
+    .container {
+        font-size: 14px;
+    }
+
+
+}
+@media (max-width: 768px) {
+    .container {
+        font-size: 26px;
+    }
+
+}
+@media (max-width: 1200px) {
+
+    .main_mnu ul {
+        display: none;
+        width: 100%;
+    }
+    .logotip{
+        display: none;
+    }
+    .arrowLeft{
+        display: none;
+    }
+    .arrowRight{
+        display: none;
+    }
+    .container.navigate{
+        background-color:#F1F2F2;
+    }
+
+
+}
+@media (min-width: 1200px) {
+
+    .main-mnu-button {
+        display: none;
+    }
+
+    div.special{
+        display: inline-block;
+    }
+}

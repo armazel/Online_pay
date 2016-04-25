@@ -1,0 +1,140 @@
+body {
+    font-family: "RobotoRegular", sans-serif;
+    font-size: 16px;
+}
+body{
+    font-family: "Light";
+    font-size: 14px;
+    padding-bottom: 70px;
+    height: 100%;
+}
+
+div.mainlogo{
+    width:100%;
+   background:url("../content/logo.png") ;
+    height: 140px;
+    display: block;
+
+}
+
+.phone{
+    width:10px;
+    height:14px;
+}
+.flag{
+    width: 35px;
+    height: 23px;
+}
+.logotip{
+    width: 163px;
+    height: 130px;
+    }
+
+.main_mnu{
+    padding: 0;
+    list-style-type: none;
+    max-height: 210px;
+}
+.main_mnu li{
+    white-space:nowrap;
+
+}
+.main_mnu li{
+    max-height: 100px;
+    max-width: 120px;
+
+}
+.container.navigate{
+    width: auto;
+    padding: 0px 25px 0px -55px;
+}
+.container.navigate.ph1{
+    margin:35px;
+}
+.main_mnu a{
+    font-size: 14px;
+    font-family: "bold";
+    color: black;
+    padding: 15px 20px;
+    display: block;
+    -webkit-transition: all .25s;
+    -o-transition: all .25s;
+    transition: all .25s;
+}
+div.ph1{
+    padding: 0px 30px 0 0;
+}
+div.ph5{
+    padding: 0px 30px 0px 0px;
+}
+.main_mnu a:hover {
+    color: #EF9E13;
+}
+.main_mnu ul li{
+    text-decoration: underline;
+    display: inline-block;
+}
+.main_mnu ul li{
+    padding: 0px 45px -5px -5px;
+    height: 122px;
+}
+.main_mnu ul{
+    max-height: 140px;
+    max-width: 100%;
+}
+.main-mnu-button{
+    background-color: transparent;
+    border: medium none;
+    font-size: 26px;
+   float: inherit;
+}
+.order{
+    text-align: center;
+    padding: 10px;
+}
+.btn_order_service{
+    color: white;
+    width: 100%;
+    width: 226px;
+    height:36px;
+    border-radius: 4px;
+    background: #EF9E13;
+
+}
+.payImg{
+    display: inline-block;
+    list-style-type: none;
+}
+.payImg img{
+    width: 89px;
+    height: 81px;
+
+}
+.payImg li+li{
+    padding-left:0px ;
+}
+div.panel-heading.transit{
+    color: #EF9E13;
+
+}
+div.panel-heading.transit:hover{
+    background: #EF9E13;
+    color: white;
+
+
+}
+div.panel-heading.transit p a {
+    font-family: open_light;
+    font-size: 15pt;
+}
+div p.LogotipDown img+img{
+    margin-right: 40px;
+}
+.image {
+    position: relative;
+
+}
+ul.count li {
+    text-decoration: none;
+}
+

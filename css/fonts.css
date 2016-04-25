@@ -1,0 +1,45 @@
+@font-face {
+    font-family: Light;
+    src: url("../content/fonts/eurofurence_light.ttf");
+}
+@font-face {
+    font-family: bold;
+    src: url("../content/fonts/OpenSans-Bold.ttf");
+}
+@font-face {
+    font-family: open_light;
+    src: url("../content/fonts/2209.ttf");
+}
+@font-face {
+    font-family: open_reglar;
+    src: url("../content/fonts/2209.ttf");
+}
+
+/*Добавлен шрифт, как на макете*/
+
+
+/*!*Подчеркивание заголовков*!*/
+/*.yellowDecor{*/
+    /*text-decoration: underline;*/
+    /*text-decoration-color:#EF9E13;*/
+/*}*/
+/*.grayDecor{*/
+    /*text-decoration: underline;*/
+    /*text-decoration-color:#B2B2B2;*/
+/*}*/
+h1{
+    font-size: 21pt;
+    font-family:bold ;
+}
+    .font1{
+        font-family: Light;
+        color:black;
+    }
+ul.count li a{
+    color: white;
+    font-family: open_reglar;
+    font-size: 12pt;
+}
+p.copiright{
+    color: #D0CCCA;
+}
